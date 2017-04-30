@@ -253,36 +253,36 @@ section.download .badges .badge-link img {
     font-size: 70px;
   }
 }
-section.about .section-heading {
+section.features .section-heading {
   margin-bottom: 100px;
 }
-section.about .section-heading h2 {
+section.features .section-heading h2 {
   margin-top: 0;
 }
-section.about .section-heading p {
+section.features .section-heading p {
   margin-bottom: 0;
 }
-section.about .device-container,
-section.about .feature-item {
+section.features .device-container,
+section.features .feature-item {
   max-width: 300px;
   margin: 0 auto;
 }
-section.about .device-container {
+section.features .device-container {
   margin-bottom: 100px;
 }
 @media (min-width: 992px) {
-  section.about .device-container {
+  section.features .device-container {
     margin-bottom: 0;
   }
 }
-section.about .feature-item {
+section.features .feature-item {
   text-align: center;
   margin-bottom: 100px;
 }
-section.about .feature-item h3 {
+section.features .feature-item h3 {
   font-size: 30px;
 }
-section.about .feature-item i {
+section.features .feature-item i {
   font-size: 80px;
   background: -webkit-linear-gradient(to left, #7b4397, #dc2430);
   background: linear-gradient(to left, #7b4397, #dc2430);
@@ -290,8 +290,8 @@ section.about .feature-item i {
   -webkit-text-fill-color: transparent;
 }
 @media (min-width: 992px) {
-  section.about .device-container,
-  section.about .feature-item {
+  section.features .device-container,
+  section.features .feature-item {
     max-width: none;
   }
 }
