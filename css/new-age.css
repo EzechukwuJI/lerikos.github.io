@@ -519,7 +519,8 @@ body {
   & .list-group-item {
     border: 0px;
     padding: .25rem;
-    color: $main-font-color;
+    /*color: $main-font-color;*/
+    color: #888888;
     font-weight: $main-font-weight;
   }
 }
